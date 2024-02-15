@@ -1,7 +1,7 @@
 # Anisa_vafaie_fard
 Hi.I'm Anisa.
-I've written this code as a gadget for students in grade 9th.I was thinking about new ways for teaching math which 
-can be fun and useful for students.so I just tried to program an app which has enjoyable animations and 
+I've written this code as a helpful gadget for students in grade 9th.I was thinking 
+about new ways for teaching math which can be fun and useful for students.so I just tried to program an app which has enjoyable animations and 
 explains definitions and points of mathematic in an easy way.
 the language of this app is Persian and now it just includes one chapter of the 9th grade math book
 wich is about sets(collections{}).
